@@ -76,6 +76,9 @@
                 <img src="wa.png" style="width : 30px; height : 30px; object-fit : cover">
                 <a style="" target="blank" href="https://wa.me/085850943784">connect with me on whatsapp</a>
             </div>
+            <div class="row">
+            	<span>Auto deploy with <a href="https://github.com/iiqbalt/parser-data">github</a></span>
+            </div>
         </div>
     </div>
 </div>
