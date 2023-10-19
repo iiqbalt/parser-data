@@ -43,11 +43,11 @@
         </button>
         <a class="navbar-brand" href="#">Data Parser kemdikbud.go.id</a>
     </div>
-        <div id="navbar" class="navbar-collapse collapse">
+        <!-- <div id="navbar" class="navbar-collapse collapse">
             <p class="navbar-text navbar-right">
                 <a target="_blank" href="https://bulk-gmail-sender.herokuapp.com/" class="navbar-link">Bulk Gmail Sender</a>
             </p>
-        </div>
+        </div> -->
     </div>
 </nav>
 
