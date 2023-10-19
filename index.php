@@ -102,7 +102,7 @@
                 url : 'get-data.php',
                 // async: true,
                 success : function(data){
-
+                    // console.log("data : ", data)
                     $("#output").html(data);
                 }
             })
